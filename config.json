@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrncrypt",
+        "uuid": 7818060,
+        "checksum": "w052c"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
